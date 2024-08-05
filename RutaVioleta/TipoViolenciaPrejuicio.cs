@@ -59,7 +59,7 @@ namespace RutaVioleta
             {
                 MessageBox.Show("Sus datos han sido guardados correctamente");
             }
-                this.Close();
+                Application.Exit();
         }
 
         
